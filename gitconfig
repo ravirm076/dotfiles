@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ravirm076@gmail.com
+	name = ravi marangappanavar
